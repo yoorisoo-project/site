@@ -1,12 +1,14 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
+ - title: "About"
+   #url: /about/
+   description: 그냥 자기소개 페이지
+ - title: "심미적 1장"
   #   url: /year-archive/
-  # - title: "Sample Collections"
+   description: 정세은T 부분
+ - title: "심미적 5장"
   #   url: /collection-archive/
-  # - title: "Sitemap"
+  description: 전지환T 부분
+ - title: "판정법 총정리"
   #   url: /sitemap/
+  description: 과연 우리가 이것까지 할까.........?
