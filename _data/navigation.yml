@@ -1,7 +1,7 @@
 # main links
 main:
  - title: "About"
-   #url: /about/
+   url: /docs/about/
    #- description: 그냥 자기소개 페이지
  - title: "심미적 1장"
   #   url: /year-archive/
