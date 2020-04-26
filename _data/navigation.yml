@@ -1,9 +1,10 @@
 # main links
 main:
  - title: "About"
-   url: /docs/about/
+   url: /docs/about.md/
    #- description: 그냥 자기소개 페이지
  - title: "심미적 1장"
+   url: /_posts/2020-04-22-test-post.md/
   #   url: /year-archive/
    #description: 정세은T 부분
  - title: "심미적 5장"
