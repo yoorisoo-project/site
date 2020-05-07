@@ -3,7 +3,9 @@ main:
  - title: "About"
    url: /docs/about.md/
    #- description: 그냥 자기소개 페이지
- - title: "심미적 1장"
+ - title: <style>
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@700&display=swap');
+</style><p style="font-family:'Nanum Myeongjo',serif;">"심미적 1장"</p>
    url: /_posts/2020-04-22-test-post.md/
   #   url: /year-archive/
    #description: 정세은T 부분
