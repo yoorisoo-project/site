@@ -265,10 +265,10 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: docs
+      type: posts
     values:
-      sidebar:
-        nav: "docs"
+      # sidebar:
+      #   nav: "docs"
       layout: single
       author_profile: true
       read_time: false
