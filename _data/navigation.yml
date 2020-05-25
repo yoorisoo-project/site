@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: https://yoorisoo-project.github.io/site/_posts/2020-04-20-머릿말.md
- #  - title: "심미적 1장"
+  - title: "심미적 1장"
  #    url: https://yoorisoo-project.github.io/site/docs/2020-04-26-연습문제-1장-1절.md/
  # - title: "심미적 5장"
  #    url: https://yoorisoo-project.github.io/site/docs/
