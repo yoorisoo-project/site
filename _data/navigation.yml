@@ -12,15 +12,15 @@ main:
 
 
 # sample sidebar menu links
-docs:
-  - title: About
+# docs:
+#   - title: About
 
-  - title: 심화 미분적분학 1장
-    children:
-      - title: "1장 1절"
-        url: /docs/firstfirst
-      - title: "1장 2절"
-      - title: "1장 3절"
-      - title: "1장 4절"
-      - title: "1장 5절"
-  - title: 심화 미분적분학 5장
+#   - title: 심화 미분적분학 1장
+#     children:
+#       - title: "1장 1절"
+#         url: /docs/firstfirst
+#       - title: "1장 2절"
+#       - title: "1장 3절"
+#       - title: "1장 4절"
+#       - title: "1장 5절"
+#   - title: 심화 미분적분학 5장
