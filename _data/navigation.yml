@@ -1,28 +1,28 @@
 # main links
-main:
- - title: "About"
-   url: /docs/about.md/
-   #- description: 그냥 자기소개 페이지
- - title: "심미적 1장"
-   url: /_posts/2020-04-22-test-post.md/
-  #   url: /year-archive/
-   #description: 정세은T 부분
- - title: "심미적 5장"
-  #   url: /collection-archive/
-  #description: 전지환T 부분
- - title: "판정법 총정리"
-  #   url: /sitemap/
-  #description: 과연 우리가 이것까지 할까.........?
+# main:
+#  - title: "About"
+#    url: /docs/about.md/
+#    #- description: 그냥 자기소개 페이지
+#  - title: "심미적 1장"
+#    url: /_posts/2020-04-22-test-post.md/
+#   #   url: /year-archive/
+#    #description: 정세은T 부분
+#  - title: "심미적 5장"
+#   #   url: /collection-archive/
+#   #description: 전지환T 부분
+#  - title: "판정법 총정리"
+#   #   url: /sitemap/
+#   #description: 과연 우리가 이것까지 할까.........?
 
 
-#sample sidebar menu links
-docs:
-  - title: About
-  - title: 심화 미분적분학 1장
-    children:
-      - title: "1장 1절"
-      - title: "1장 2절"
-      - title: "1장 3절"
-      - title: "1장 4절"
-      - title: "1장 5절"
-  - title: 심화 미분적분학 5장
+# #sample sidebar menu links
+# docs:
+#   - title: About
+#   - title: 심화 미분적분학 1장
+#     children:
+#       - title: "1장 1절"
+#       - title: "1장 2절"
+#       - title: "1장 3절"
+#       - title: "1장 4절"
+#       - title: "1장 5절"
+#   - title: 심화 미분적분학 5장
