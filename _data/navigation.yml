@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "About"
-    url: /docs/about.md/
+    url: https://yoorisoo-project.github.io/site/docs/about.md/
   - title: "심미적 1장"
-    url: /docs/2020-04-26-연습문제-1장-1절.md/
+    url: https://yoorisoo-project.github.io/site/docs/2020-04-26-연습문제-1장-1절.md/
  - title: "심미적 5장"
-    url: /docs/
+    url: https://yoorisoo-project.github.io/site/docs/
  - title: "판정법 총정리"
     url: /sitemap/
 
